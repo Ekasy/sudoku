@@ -1,4 +1,4 @@
 # Environments
 .venv
 venv/
-.idea/
+.idea
