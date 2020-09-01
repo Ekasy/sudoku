@@ -1,5 +1,5 @@
-# Environments
 .venv
 venv/
 *.iml
 .idea
+__pycache__/
